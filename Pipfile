@@ -9,12 +9,13 @@ scipy = "*"
 pandas = "*"
 matplotlib = "*"
 statsmodels = "*"
-fastapi = "*"
-uvicorn = "*"
-pydantic = "*"
 pingouin = "*"
 seaborn = "*"
 ipykernel = "*"
+fastapi = "*"
+pydantic = "*"
+uvicorn = "*"
+joblib = "*"
 
 [dev-packages]
 
